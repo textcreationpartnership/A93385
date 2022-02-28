@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy newes from the north, declaring the particulars of three severall fights, neer Carlisle, Berwick, and Scarbrough, between the English, Scots, and French, under the command of Lieu. Gen. Crumwell, Col. Gen. Lambert, Generall Monro, Col. Sir Tho: Tildsley Colonell Boynton, Major Sanderson, and Major Ashton. With the number killed and taken on each side, the routing of the French neer Scarbrough, the great blow given to the Scots neer Carlisle, Monro's retreating into Scotland with the remainder of his horse and foot, and the dispersing of Col. Tildsley's forces neer Berwick. Likewise, the marching of the English Army toward Scotland, and Lieu. Gen. Cromwels summons to the said kingdom.</title>
+            <author>Smith, R., of Richmond, Yorkshire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93385</idno>
+            <idno type="STC">Wing S4148</idno>
+            <idno type="STC">Thomason E464_27</idno>
+            <idno type="STC">ESTC R210618</idno>
+            <idno type="EEBO-CITATION">99869400</idno>
+            <idno type="PROQUEST">99869400</idno>
+            <idno type="VID">162250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162250)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy newes from the north, declaring the particulars of three severall fights, neer Carlisle, Berwick, and Scarbrough, between the English, Scots, and French, under the command of Lieu. Gen. Crumwell, Col. Gen. Lambert, Generall Monro, Col. Sir Tho: Tildsley Colonell Boynton, Major Sanderson, and Major Ashton. With the number killed and taken on each side, the routing of the French neer Scarbrough, the great blow given to the Scots neer Carlisle, Monro's retreating into Scotland with the remainder of his horse and foot, and the dispersing of Col. Tildsley's forces neer Berwick. Likewise, the marching of the English Army toward Scotland, and Lieu. Gen. Cromwels summons to the said kingdom.</title>
+                  <author>Smith, R., of Richmond, Yorkshire.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Lawrenson, and are to be sold at the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 3: R. Smith.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162250:1" rendition="simple:additions"/>
+            <p>BLOUDY NEWES FROM THE NORTH, DECLARING The particulars of three ſeverall Fights, neer <hi>Carliſle, Berwick,</hi> and <hi>Scarbrough</hi> between the <hi>Engliſh<g ref="char:punc">▪</g> Scots,</hi> and <hi>French,</hi> under the command of</p>
+            <list>
+               <item>Lieu. Gen. <hi>Crumwell,</hi>
+               </item>
+               <item>Col. Gen. <hi>Lambert,</hi>
+               </item>
+               <item>Generall <hi>Monro,</hi>
+               </item>
+               <item>Col. Sir <hi>Tho: Tildſley</hi>
+               </item>
+               <item>Colonell <hi>Boynton,</hi>
+               </item>
+               <item>Major <hi>Sanderſon,</hi> and</item>
+               <item>Major <hi>Aſhton.</hi>
+               </item>
+            </list>
+            <p>WITH The number killed and taken on each ſide, the routing of the <hi>French</hi> neer <hi>Scarbrough,</hi> the great blow gi<g ref="char:EOLhyphen"/>ven to the <hi>Scots</hi> neer <hi>Carliſle, Monro's</hi> retrea<g ref="char:EOLhyphen"/>ting into <hi>Scotland</hi> with the remainder of his Horſe and Foot, and the diſ<g ref="char:EOLhyphen"/>perſing of Col. <hi>Tildſley's</hi> for<g ref="char:EOLhyphen"/>ces neer <hi>Berwick.</hi>
+            </p>
+            <p>Likewiſe, the marching of the <hi>Engliſh Army</hi> toward <hi>Scotland,</hi> and Lieu. Gen. <hi>Cromwels</hi> Summons to the ſaid Kingdom.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Lawrenſon,</hi> and are to be ſold at the Royall Exchange, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162250:2"/>
+            <pb n="1" facs="tcp:162250:2"/>
+            <head>BLOUDY NEWES FROM THE NORTH D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>claring The proceeding of the Engliſh and Scottiſh Armies, and their late Fights nee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Barwick and Carliſle.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Royall Party in the City of <hi>Carliſle,</hi> are very reſolute, and inſolent, denying to yeeld, who ſaith, they are reſolved to ſacrifice their lives for their King and Country, rather then to yeeld to the mercy either of Generall or Soldiery; ſo ſaid
+<pb n="2" facs="tcp:162250:3"/> the late <hi>Colcheſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erian Shavers,</hi> but ſaith the Proverb, <hi>Neceſſity hath no Law, Hunger will break through stone walls;</hi> the late ſufferings of <hi>Carliſle,</hi> may ſuffice for a preſent preſident to them, who notwithſtanding their great and vaſt Numbers, and their gallant Heroes of Chivalry, yet forced to ſurrender, and accept of con<g ref="char:EOLhyphen"/>ditions.</p>
+            <p>On Friday laſt they ſallied out of the City with a conſiderable party of Horſe and Dragoons, marched ſome few miles up into the Country, fell to their old trade of plundering, and had gathered great ſtore of cattell in a heard together; who even in the nicke of time as they were driving them away, a party of Major Gen. <hi>Lanberts</hi> Horſe, came in to the Countries aſſi<g ref="char:EOLhyphen"/>ſtance, fell upon the Scots and Engliſh Cava<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, reſ<g ref="char:EOLhyphen"/>cued the cattell, and put divers of the enemy to the ſword, killing above 30 upon the place<g ref="char:punc">▪</g> and took neer upon as many priſoners, with the loſſe of eleven men, 5 ſlain, and 6 wounded.</p>
+            <p>The reſt of their Body retreated, and the night ap<g ref="char:EOLhyphen"/>proached, which much eclipſed the ſplend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of our Victory, and our horſes being tired, and the wayes dif<g ref="char:EOLhyphen"/>ficult,? could not mainta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the purſuit no further, ſo that they are now marching up to the head-quarters of Lieu. Gen. <hi>Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mwell,</hi> their Major Generall being likewiſe marching towards the Borders of Scotland with 3000 horſe, as alſo col. <hi>Whites</hi> and col. <hi>Hackers</hi> going after him with all ſpeed from the ſiege of Pon<g ref="char:EOLhyphen"/>tefract.</p>
+            <p>The Lieul. Gen. is likewiſe marching towards the Borders, and hath ſent the Biſhoprick horſe comman<g ref="char:EOLhyphen"/>ded by <hi>Major Sanderſon,</hi> and another of his own Re<g ref="char:EOLhyphen"/>giments
+<pb n="3" facs="tcp:162250:3"/> by the way of <hi>Anwick,</hi> to diſſipate the Eng<g ref="char:EOLhyphen"/>liſh Enemy about <hi>Barwick,</hi> commanded by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Tildſley,</hi> and to fight them, or force them to a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>treat; and we hear that they have lately fallen upon ſome of their out-quarters five miles on this ſide <hi>Chil<g ref="char:EOLhyphen"/>lingham,</hi> killed ſome, and took divers priſoners, and have allarm'd the reſt, who (we hear) are uſing all means poſſible to eſcape their mercy, and deſire to move <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtward, but it is believed, col. <hi>Lamberts</hi> For<g ref="char:EOLhyphen"/>ces will interpoſe between them and <hi>Carliſle,</hi> and fru<g ref="char:EOLhyphen"/>ſtrate their deſign of joyning with the Lord <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yron</hi> in <hi>VVales.</hi>
+            </p>
+            <p>
+               <hi>Monro</hi> is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retreated into Scotland with all the Scots both Horſe and Foot, the Lord <hi>Lanerick</hi> is ioyned with him with the additionall Forces, conſiſting of a<g ref="char:EOLhyphen"/>bout 3000. who upon their march towards <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> to the committee of Eſtates, received intelli<g ref="char:EOLhyphen"/>gence, that the ſaid committee were all forced from thence, the caſtle ſurprized by old Gen. <hi>Leven,</hi> and that the <hi>Marq. of Argyle</hi> with a great Army were en<g ref="char:EOLhyphen"/>tred the city; whereupon they changed their motion, and is now marching towards the Weſt of Scotland; but Lieut. Cen. <hi>David Leſley</hi> having notice thereof ad<g ref="char:EOLhyphen"/>vanced with a conſiderable party of horſe, fell upon the Lord <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nericks</hi> Briggade, and diſperſed moſt of them.</p>
+            <p>Lieu. Gen. <hi>Cru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well</hi> is reſolved to ſend ſummons to Scotland for ſurrender of the Engliſh Garriſons to the obedience of the Parliament of England, and to have a mutuall correſpondency between both Na<g ref="char:EOLhyphen"/>tions, which is the earneſt prayers of</p>
+            <closer>
+               <signed>Your moſt oblieged friend, R. SMITH.</signed>
+               <dateline>Richmond <date>18. Sept. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:162250:4"/>
+            <head>The Generall Summons of the Royall party in <hi>Scotland,</hi> to the Commonalty of the reſpective Counties through<g ref="char:EOLhyphen"/>out the whole Nation.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Royall party in Scotland have ſummoned in the Country, to aſſiſt <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nro</hi> againſt <hi>England,</hi> but the Scots Jockies refuſe to ingage, ſlighting the Sum<g ref="char:EOLhyphen"/>mons, which cauſeth the Committe of Eſtates to give expreſſe Orders for an inforcement; yet all can<g ref="char:EOLhyphen"/>not prevail, the major part diſſerting their owne habit<g ref="char:EOLunhyphen"/>tations, and flies to the Marquis of <hi>Argyle</hi> for ſhelteth who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e gallantry towards the Commonalty, induceth the whole Kingdom to adhere to him, and have now compleated three or four thouſand horſe and foot, for their ſafety and preſervation, to be commanded and conducted by the ſaid <hi>Marqueſse,</hi> being reſolved to oppoſe <hi>Mouro</hi> and his <hi>Army,</hi> and give a check to the Reſults of the Committee of Eſtates.</p>
+            <p>Lieut. Gen. <hi>David Leſley</hi> hath raiſed two thouſand old Soldiers, deſires a conjunction with the <hi>Marquis,</hi> who is now upon his march from the North towards the City of <hi>Edenburgh.</hi>
+            </p>
+            <p>But <hi>Monro</hi> uſeth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is utmoſt endeavour to obſtruct the ſame, and is now marching from the Confines of <hi>England,</hi> to ſecure the ſaid City, and Committee, be<g ref="char:EOLhyphen"/>ing much diſturbed with new commotions and inſur<g ref="char:EOLhyphen"/>rections.</p>
+            <p>They are purſued exceeding cloſe by Lieut. Gene<g ref="char:EOLhyphen"/>rall <hi>Crumwell,</hi> and Major Gen. <hi>Lambert,</hi> who are reſol<g ref="char:EOLhyphen"/>ved to have reſtitution of all their plu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dered goods &amp; cattell, which they have ſo barbarouſly ſeized on, and
+<pb n="5" facs="tcp:162250:4"/> took from the Inhabitants in theſe parts, the Lieuten. Gen. having de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lared, <hi>That he is reſolved to hazard life, estate, and fortune, for the priviledge and liberty of the ſubject, and to preſerve the free-born people of this King<g ref="char:EOLhyphen"/>dom from violence and oppreſſion, and therefore will give his utmoſt aſſiſtance, for the reſtoring of them to their just rights, and remanding back the Cattell which hath been taken from them, and ſent into</hi> Scotland; this gives great ſatisfaction to the Country people, who are ſo far taken with his declaratory expreſſions, that they have tendered theie ſervice in this preſent Expedition, proffering to adventure all that is near and dear unto them, for his aſſiſtance, which was well taken, and thanks returned for their late and preſent forwardneſs in ſhewing themſelves willing to promote ſo great a work, and to root out, and diſperſe the enemies of <hi>Re<g ref="char:EOLhyphen"/>ligion, King, and Kingdom.</hi>
+            </p>
+            <p>We hear that the Royall party in <hi>Cheſhire</hi> had late<g ref="char:EOLhyphen"/>ly a deſign to have ſurprized the City of <hi>Chester</hi> for the <hi>King,</hi> and to have put moſt of the Officers and ſol<g ref="char:EOLhyphen"/>diers to the ſword; but even in the very nick of time, they were diſcovered, and the grand Actors taken, and executed.</p>
+            <p>The like horrid and perſidious complottings have been fomented in ſeverall other parts of the <hi>Kindome,</hi> but by the providence of the great Jehovah ſtill fru<g ref="char:EOLhyphen"/>ſtrated.</p>
+            <p>
+               <hi>Scarbrough</hi> holds out with great inſolency, the yong Gentleman Col. <hi>Bointon</hi> denies a ſurrender, having fair promiſes of relief from the Prince, ſome Forces are landed there, but no conſiderable party, not a<g ref="char:EOLhyphen"/>mounting to above three or four hundred. Col<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nell
+<pb n="6" facs="tcp:162250:5"/> 
+               <hi>Bethell</hi> the Commander in chief againſt it, is reſolved to ſtorm.</p>
+            <p>The like preparations is making at <hi>Pomfract,</hi> the of<g ref="char:EOLhyphen"/>ficers and others denying a ſurender, Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teries are rai<g ref="char:EOLhyphen"/>ſing, and skaling ladders ſent for.</p>
+            <p>They are in all 500 ſtrong at Scarbrough, with the 300 that came by Sea, which one Major <hi>Aſhton</hi> com<g ref="char:EOLhyphen"/>mands in chief, being Governour of the town, who up<g ref="char:EOLhyphen"/>on Sunday laſt, made a ſalley forth upon the Parlia<g ref="char:EOLhyphen"/>ments forces, fell upon the quarters of Col. <hi>Legard,</hi> forced them from two or three Guards, burned one, and advanced up towards the main Guard; but re<g ref="char:EOLhyphen"/>nowned col. <hi>Bethell</hi> having receiv'd the allarm, with a party of horſe advanced, charged the ſaid Major <hi>Aſh<g ref="char:EOLhyphen"/>ton,</hi> diſputed the ground, killed nine, took about four<g ref="char:EOLhyphen"/>teen priſoners, routed the Body, and purſued them to their very Works, and we hear have ſince ſtormed, kil<g ref="char:EOLhyphen"/>led Major <hi>Aſhton,</hi> and put many of the Scots, French, and Iriſh to the ſword.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
